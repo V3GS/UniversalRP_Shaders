@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="754e2b6c-1359-48ea-8ef3-3803c9568ce3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DissolveEffect.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../../Learning/Remote repositories/Graphics/Shaders_LearnJam/Assets/Shaders/Code/Transformations/TranslateVertex.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/Code/TranslateVertex.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/Code/01 - Transformations/TranslateVertex.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/Code/01 - Transformations/ScaleVertex.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/Code/01 - Transformations/RotateVertex.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SimpleMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Test.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DissolveEffect.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/VertexDisplacement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BouncingEffect.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="23W1JMSM3TICVZnv90s9cw3UGm4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="754e2b6c-1359-48ea-8ef3-3803c9568ce3" name="Default Changelist" comment="" />
+      <created>1641834957594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641834957594</updated>
+      <workItem from="1641834967258" duration="2760000" />
+      <workItem from="1641838195575" duration="46000" />
+      <workItem from="1641838261268" duration="467000" />
+      <workItem from="1641949545989" duration="319000" />
+      <workItem from="1642116548128" duration="673000" />
+      <workItem from="1642707189785" duration="5000" />
+      <workItem from="1642719435820" duration="3040000" />
+      <workItem from="1643067666547" duration="8000" />
+      <workItem from="1643067692857" duration="415000" />
+      <workItem from="1643161870201" duration="1238000" />
+      <workItem from="1643163132565" duration="716000" />
+      <workItem from="1643325842714" duration="668000" />
+      <workItem from="1646271303885" duration="44000" />
+      <workItem from="1655942583457" duration="601000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
